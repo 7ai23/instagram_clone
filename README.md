@@ -4,7 +4,6 @@
 
 This project is a clone of the Instagram web app.
 It's built using React, React libraries (react-router-dom, axios, swiper), Tailwind CSS and SCSS.
-Watch this repo to be informed about the next updates of this application :)
 
 ## Technologies
 
