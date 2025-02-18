@@ -56,16 +56,3 @@ npm start
 json-server --watch server/db.json --port 8000
 ```
 
-## Todo
-
-- [x] Implement authentication system.
-- [ ] Complete the comments and likes components of the posts.
-- [ ] Add more pages (user profile, direct message, explore, etc).
-- [ ] Add modal component for switch account and share posts.
-- [x] Complete Search components.
-- [x] Add loading component for using in pages.
-- [ ] show popover of user profile when hover on username.
-
-## Support
-
-Give a ⭐️ if this project helped you!
